@@ -10,7 +10,7 @@
 
 | 地区 | 健康码别名 | url scheme | 是否可用 
 | - | - | - | - |
-| 广东 | 穗康码 | weixin://dl/business/?t=QDZVQEO2z9f | ✅ |
+| 广东 | 粤康码/穗康码 | weixin://dl/business/?t=QDZVQEO2z9f | ✅ |
 | 四川 | 天府健康通 | weixin://dl/business/?t=Je3MKDRpAWv | ✅ |
 
 
