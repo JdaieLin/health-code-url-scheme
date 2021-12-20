@@ -21,7 +21,7 @@
 | 地区 | 健康码别名 | url scheme (较长，请复制后将 http 换成 alipays) | 已验证可用 
 | ---- | ---- | - | - |
 | 安徽 | 安康码 | [右键复制链接](http://platformapi/startapp?appId=2018081661065647&page=pages%2Fservice%2Fservice%3furl%3dhttps%3a%2f%2fakm.ahzwfw.gov.cn%2fakm-sj-user%2findex.html%3fbelongarea%3d340100%24%2fhome%3fbelongarea%3d340100%26auth%3dct) | ✅ |
-| 北京 | 北京健康宝 | [右键复制链接](alipays://platformapi/startapp?appId=2021001135679870) | ✅ |
+| 北京 | 北京健康宝 | [右键复制链接](http://platformapi/startapp?appId=2021001135679870) | ✅ |
 | 重庆 | 渝康码 | [右键复制链接](http://platformapi/startapp?appId=2021001130674650) | ✅ |
 | 福建 | 八闽健康码 | [右键复制链接](http://platformapi/startapp?appId=2021002125635929) | ✅ |
 | 甘肃 | 健康出行码 | [右键复制链接](http://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fwx.jkgs.gov.cn%2Fwap%2FhealthPass%2FaliPay%2Faccess) | ✅ |
