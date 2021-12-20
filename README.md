@@ -20,14 +20,14 @@
 
 | 地区 | 健康码别名 | url scheme (较长，请复制后将 http 换成 alipays) | 已验证可用 
 | ---- | ---- | - | - |
-| 安徽 | | [右键复制链接](http://platformapi/startApp?AppId=2018081661065647&page=pages%2Fservice%2Fservice%3furl%3dhttps%3a%2f%2fakm.ahzwfw.gov.cn%2fakm-sj-user%2findex.html%3fbelongarea%3d340800%24%2fhome%3fbelongarea%3d340800%26auth%3dct) |  |
-| 北京 | | [右键复制链接](http://platformapi/startApp?AppId=2021001135679870) |  |
+| 安徽 | 安康码 | [右键复制链接](http://platformapi/startapp?appId=2018081661065647&page=pages%2Fservice%2Fservice%3furl%3dhttps%3a%2f%2fakm.ahzwfw.gov.cn%2fakm-sj-user%2findex.html%3fbelongarea%3d340100%24%2fhome%3fbelongarea%3d340100%26auth%3dct) | ✅ |
+| 北京 | 北京健康宝 | [右键复制链接](alipays://platformapi/startapp?appId=2021001135679870) | ✅ |
 | 重庆 | 渝康码 | [右键复制链接](http://platformapi/startapp?appId=2021001130674650) | ✅ |
-| 福建 | | [右键复制链接](http://platformapi/startApp?AppId=2021002125635929) |  |
-| 甘肃 | | [右键复制链接](http://platformapi/startApp?AppId=20000067&url=https%3A%2F%2Fwx.jkgs.gov.cn%2Fwap%2FhealthPass%2FaliPay%2Faccess) |  |
-| 广东 | | [右键复制链接](http://platformapi/startApp?AppId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2) |  |
-| 广西 | | [右键复制链接](http://platformapi/startApp?AppId=20000067&url=https://render.alipay.com/p/c/guangxi-province-jkm/report.html?orgCode=450000-91330106MA27Y4U47R-p0000&type=twocode&needRequestCodeDetail=YES&from=offline) |  |
-| 贵州 | | [右键复制链接](http://platformapi/startApp?AppId=2021001135637273) |  |
+| 福建 | 八闽健康码 | [右键复制链接](http://platformapi/startapp?appId=2021002125635929) | ✅ |
+| 甘肃 | 健康出行码 | [右键复制链接](http://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fwx.jkgs.gov.cn%2Fwap%2FhealthPass%2FaliPay%2Faccess) | ✅ |
+| 广东 | 全国健康码 | [右键复制链接](http://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2) | ✅ |
+| 广西 | | [右键复制链接](http://platformapi/startapp?appId=68687957&url=%2Fp%2Fc%2F18j5w1jmsiqo%2Freport.html%3ForgCode%3D450000-91330106MA27Y4U47R-p0000%26type%3Dtwocode%26needRequestCodeDetail%3DYES%26from%3Doffline%26showChooseCity%3DYES) | ✅ |
+| 贵州 | | [右键复制链接](http://platformapi/startapp?appId=2021001135637273) | ✅ |
 | 海南 | | [右键复制链接](http://platformapi/startapp?appId=2021001155692504&query=action%3Dopen%26tab%3Dcode%26source%3D%E5%9F%8E%E5%B8%82%E5%81%A5%E5%BA%B7%E7%A0%81) | ✅ |
 | 黑龙江 | 全国健康码 | [右键复制链接](http://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2) | ✅ |
 | 河北 | | [右键复制链接](http://platformapi/startapp?appId=2021002100611022&page=pages/index/index) | ✅ |
