@@ -81,7 +81,7 @@
 
 | 地区 | 健康码别名 | url scheme | 已验证可用 
 | - | - | - | - |
-| 全国通用 | | upwallet://rn/rnshcarcode | ❌ |
+| 全国通用 | | upwallet://applet?encryptAppId=d9a62204ddad59af | ✅ |
 
 
 
