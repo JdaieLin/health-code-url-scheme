@@ -58,7 +58,7 @@
 | 陕西-西安 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001140645628</p></details> | ✅|
 | 陕西-咸阳 | 全国健康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2</p></details> | ✅|
 | 陕西-延安 | 全国健康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2</p></details> | ✅|
-| 上海 | 随申码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=20000067&url=alipays%3A//platformapi/startapp%3FappId%3D2019072665939857%26query%3D%26page%3D/pages/my-station-type/my-station-type</p></details> | ❌|
+| 上海 | 随申码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019072665939857&page=pages%2Fmy-station-type%2Fmy-station-type</p></details> | ✅|
 | 四川 | 天府健康通 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002116662889</p></details> | ✅|
 | 西藏 | 全国健康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2</p></details> | ✅|
 | 新疆 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019111269039717&page=pages%2fhealthcode%2fhealthcode_index%2fhealthcode_index</p></details> | ✅|
