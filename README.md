@@ -45,7 +45,7 @@
 | 新疆 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019111269039717&page=pages%2fhealthcode%2fhealthcode_index%2fhealthcode_index</p></details> | ✅|
 | 云南 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002139686716</p></details> | ✅|
 | 浙江-杭州 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=20000067&url=https://h5.dingtalk.com/healthAct/index.html?source=zfbcsfw0211</p></details> | ✅|
-| 全国 | | alipays://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth_code%2fhealth_code%3fsiteid%3d2 | ✅ |
+| 全国 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth_code%2fhealth_code%3fsiteid%3d2</p></details> | ✅ |
 
 ### 云闪付
 
