@@ -39,8 +39,6 @@
 | 内蒙古 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001114655676&page=pages%2fweb-view%2fweb-view%3furl%3dhttps%3a%2f%2fzwfw.nmg.gov.cn%2fapp%2ficity%2fapps%2fareas%2fneimenggu%2fcard-healthcode%2findex.html%26title%3d%e5%81%a5%e5%ba%b7%e7%a0%81%26form%3dexternal</p></details> | ✅|
 | 青海 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001143672652&query=healthqrcode</p></details> | ✅|
 | 山东 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001136608745</p></details> | ✅|
-| 陕西-铜川 | 全国健康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019011763060066&page=pages%2fhealth-code%2fhealth-code%3fsiteid%3d2</p></details> | ✅|
-| 陕西-渭南 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=20000067&url=https://render.alipay.com/p/c/shanxi-weinan-jkm/report.html?orgCode=610500-91330106MA27Y4U47R-p0000&type=twocode&needRequestCodeDetail=YES&from=offline</p></details> | ✅|
 | 陕西-西安 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001140645628</p></details> | ✅|
 | 上海 | 随申码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019072665939857&page=pages%2Fmy-station-type%2Fmy-station-type</p></details> | ✅|
 | 四川 | 天府健康通 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002116662889</p></details> | ✅|
