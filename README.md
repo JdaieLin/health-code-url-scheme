@@ -10,14 +10,14 @@
 
 需要小程序开发者申请 url scheme 供外部访问。
 
-⚠️由于微信api 4-11日开始调整，永久有效URL scheme将降级为30天有效，只能同时被1个用户访问，所以仅剩的两个微信url将在2022-5-10后失效。
+⚠️由于微信api 4-11日开始调整，永久有效URL scheme将降级为30天有效，只能被一个用户访问，其他用户将无法使用相同的url scheme，所以仅剩的两个微信url将在2022-4-11后失效。
 
 [详情参阅](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/url-scheme.html)
 
 | 地区 | 健康码别名 | url scheme | 已验证可用 
 | - | - | - | - |
-| 广东 | 粤康码/穗康码 | weixin://dl/business/?t=QDZVQEO2z9f | ✅  2022-5-10 到期 |
-| 四川 | 天府健康通 | weixin://dl/business/?t=Je3MKDRpAWv | ✅ 2022-5-10 到期 |
+| 广东 | 粤康码/穗康码 | weixin://dl/business/?t=QDZVQEO2z9f | ⭕️ 2022-4-11 到期 |
+| 四川 | 天府健康通 | weixin://dl/business/?t=Je3MKDRpAWv | ⭕️ 2022-4-11 到期 |
 
 
 ### 支付宝小程序
