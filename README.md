@@ -10,7 +10,7 @@
 
 需要小程序开发者申请 url scheme 供外部访问。
 
-⚠️由于微信api 4-11日开始调整，永久有效URL scheme将降级为30天有效，只能被一个用户访问，其他用户将无法使用相同的url scheme，所以仅剩的两个微信url将在2022-4-11后失效。
+⚠️由于微信api 4-11日开始调整，永久有效URL scheme将降级为30天有效，只能被一个用户访问，其他用户将无法使用相同的url scheme，所以按字面理解下面两个微信url将在2022-4-11后失效。
 
 [详情参阅](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/url-scheme.html)
 
