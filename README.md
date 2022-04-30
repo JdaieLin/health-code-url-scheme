@@ -27,7 +27,7 @@
 | 安徽 | 安康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018081661065647&page=pages%2Fservice%2Fservice%3furl%3dhttps%3a%2f%2fakm.ahzwfw.gov.cn%2fakm-sj-user%2findex.html%3fbelongarea%3d340100%24%2fhome%3fbelongarea%3d340100%26auth%3dct</p></details> | ✅|
 | 北京 | 北京健康宝 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001135679870</p></details> | ✅|
 | 重庆 | 渝康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001130674650</p></details> | ✅|
-| 福建 | 八闽健康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002125635929</p></details> | ✅|
+| 福建 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021003125688065&page=pages/index/index</p></details> | ✅|
 | 甘肃 | 健康出行码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fwx.jkgs.gov.cn%2Fwap%2FhealthPass%2FaliPay%2Faccess</p></details> | ✅|
 | 广西 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=68687957&url=%2Fp%2Fc%2F18j5w1jmsiqo%2Freport.html%3ForgCode%3D450000-91330106MA27Y4U47R-p0000%26type%3Dtwocode%26needRequestCodeDetail%3DYES%26from%3Doffline%26showChooseCity%3DYES</p></details> | ✅|
 | 贵州 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001135637273</p></details> | ✅|
