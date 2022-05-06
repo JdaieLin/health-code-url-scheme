@@ -39,7 +39,6 @@
 | 湖南 | 健康卡 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002133603718</p></details> | ✅|
 | 吉林 | 吉祥码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019082066328992&page=pages%2Fqrcode%2Fqrcode</p></details> | ✅|
 | 江苏 | 苏康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018062060350751&page=%2Fpages%2Fweb%2Fweb%3Furl%3Dhttps%3A%2F%2Fjsstm.jszwfw.gov.cn%2FjkmIndex.html</p></details> | ✅|
-| 江苏 | 苏康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018062060350751&page=%2Fpages%2Fweb%2Fweb%3Furl%3Dhttps%3A%2F%2Fjsstm.jszwfw.gov.cn%2FjkmIndex.html</p></details> | ✅|
 | 江西 | 赣通码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018082161130063&page=pages%2Fh5Load%2Fh5Load%3Flightappiduuid%3D6gdemQfv%26appName%3D%E8%B5%A3%E9%80%9A%E7%A0%81%26isneeduserinfo%3D0%26spec%3D5%26lightappurl%3Dhttps%3A%2F%2Fganfutong.jiangxi.gov.cn%2Fjmopen%2Fwebapp%2Fhtml5%2Fgantongma%2Findex.html</p></details> | ✅|
 | 内蒙古 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001114655676&page=pages%2fweb-view%2fweb-view%3furl%3dhttps%3a%2f%2fzwfw.nmg.gov.cn%2fapp%2ficity%2fapps%2fareas%2fneimenggu%2fcard-healthcode%2findex.html%26title%3d%e5%81%a5%e5%ba%b7%e7%a0%81%26form%3dexternal</p></details> | ✅|
 | 青海 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001143672652&query=healthqrcode</p></details> | ✅|
