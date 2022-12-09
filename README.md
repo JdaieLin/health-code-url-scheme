@@ -9,15 +9,13 @@
 ### 微信小程序
 
 需要小程序开发者申请 url scheme 供外部访问。
-
-⚠️由于微信api 4-11日开始调整，永久有效URL scheme将降级为30天有效，只能被一个用户访问，其他用户将无法使用相同的url scheme，所以按字面理解下面两个微信url将在2022-4-11后失效。
-
 [详情参阅](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/url-scheme.html)
 
 | 地区 | 健康码别名 | url scheme | 已验证可用 
 | - | - | - | - |
 | 广东 | 粤康码/穗康码 | weixin://dl/business/?t=QDZVQEO2z9f | ✅ 2022-9-9 验证可用 |
 | 四川 | 天府健康通 | weixin://dl/business/?t=Je3MKDRpAWv | ❌ |
+
 
 
 ### 支付宝小程序
@@ -38,9 +36,9 @@
 | 湖北 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001132656455&nbupdate=syncforce&nbversion=0.2.2003261457.6</p></details> | ✅|
 | 湖南 | 健康卡 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002133603718</p></details> | ✅|
 | 吉林 | 吉祥码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2019082066328992&page=pages%2Fqrcode%2Fqrcode</p></details> | ✅|
-| 江苏 | 苏康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018062060350751&page=%2Fpages%2Fweb%2Fweb%3Furl%3Dhttps%3A%2F%2Fjsstm.jszwfw.gov.cn%2FjkmIndex.html</p></details> | ✅|
-| 江西 | 赣通码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018082161130063&page=pages%2Fh5Load%2Fh5Load%3Flightappiduuid%3D6gdemQfv%26appName%3D%E8%B5%A3%E9%80%9A%E7%A0%81%26isneeduserinfo%3D0%26spec%3D5%26lightappurl%3Dhttps%3A%2F%2Fganfutong.jiangxi.gov.cn%2Fjmopen%2Fwebapp%2Fhtml5%2Fgantongma%2Findex.html</p></details> | ✅|
-| 内蒙古 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001114655676&page=pages%2fweb-view%2fweb-view%3furl%3dhttps%3a%2f%2fzwfw.nmg.gov.cn%2fapp%2ficity%2fapps%2fareas%2fneimenggu%2fcard-healthcode%2findex.html%26title%3d%e5%81%a5%e5%ba%b7%e7%a0%81%26form%3dexternal</p></details> | ✅|
+| 江苏 | 苏康码 | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2018062060350751&page=%2Fpages%2Fweb%2Fweb%3Furl%3Dhttps%3A%2F%2Fjsstm.jszwfw.gov.cn%2FjkmIndex.html</p></details> | ✅ |
+| 江西 | 赣通码 | <details><summary>点击展开</summary><p>alipay://platformapi/startapp?appId=68687813</p></details> | ✅|
+| 内蒙古 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001114655676</p></details> | ✅ 只能跳蒙速办首页|
 | 青海 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001143672652&query=healthqrcode</p></details> | ✅|
 | 山东 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021001136608745</p></details> | ✅|
 | 陕西 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021003125657062&page=pkg-main/pages/index/index</p></details> | ✅|
@@ -50,6 +48,7 @@
 | 云南 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002139686716</p></details> | ✅|
 | 浙江-杭州 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=20000067&url=https://h5.dingtalk.com/healthAct/index.html?source=zfbcsfw0211</p></details> | ✅|
 | 全国 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=20000067&url=https%3A%2F%2F68687564.h5app.alipay.com%2Fwww%2Findex.html</p></details> | ✅ 需再次点击 |
+| 行程码 | | <details><summary>点击展开</summary><p>alipays://platformapi/startapp?appId=2021002170600786&page=%2Fpages%2Findex%2Findex</p></details> | ✅  |
 
 ### 云闪付
 
